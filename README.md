@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on nothing yet
-- 📫 How to reach me 
+
 
 <!---
 allebyte/allebyte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
